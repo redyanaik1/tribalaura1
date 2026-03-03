@@ -1,0 +1,11 @@
+/* Price Styling */
+.price {
+  float: right;
+  font-weight: bold;
+  color: #e53935; /* red for your price */
+}
+
+.price del {
+  color: #888; /* grey for struck-through Urban Company price */
+  margin-right: 8px;
+}
